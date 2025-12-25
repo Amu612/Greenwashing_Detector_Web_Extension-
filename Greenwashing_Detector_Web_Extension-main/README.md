@@ -1,4 +1,5 @@
-#Greenwashing_Detector_Web_Extension
+# Greenwashing_Detector_Web_Extension-
+
 Greenwashing Detector is an AI-powered web application designed to analyze and identify potentially misleading environmental and sustainability claims made by companies across websites and marketing content.
 
 The system leverages Natural Language Processing (NLP) using a pre-trained ClimateBERT environmental-claims model to classify text and detect greenwashing indicators based on semantic patterns and sustainability buzzwords.
